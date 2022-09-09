@@ -1,4 +1,7 @@
-/*this code prints some strings*/
+/**
+ * this code prints some strings
+ * return 0 if success
+ */
 #include <stdio.h>
 int main(void)
 {
