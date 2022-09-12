@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	char  numbr = 0;
+	int  numbr = 0;
 
 	while (numbr < 10)
 	{	putchar((numbr % 10) + '0');
