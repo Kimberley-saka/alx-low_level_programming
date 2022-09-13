@@ -4,9 +4,14 @@
 /**
  * main - Entry point
  * Return: Always return 0 (Success)
+ * Print_alphabet: Prints the alphabet characters in lower case
  */
 
 int main(void)
+{	print_alphabet();
+	return (0);
+}
+void print_alphabet(void)
 {
 	char i = 'a';
 
@@ -15,5 +20,4 @@ int main(void)
 	}
 
 	_putchar('\n');
-	return (0);
 }
