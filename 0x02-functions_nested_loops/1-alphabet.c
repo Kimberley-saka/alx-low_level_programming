@@ -2,14 +2,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Return: Always return 0 (Success)
+ * print_alphabet - prints the alphabet
+ * Return: Nothing
  */
-
-int main(void)
-{	print_alphabet();
-	return (0);
-}
 void print_alphabet(void)
 {	char i;
 
