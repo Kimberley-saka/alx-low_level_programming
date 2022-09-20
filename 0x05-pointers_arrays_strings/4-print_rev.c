@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * _puts - prints a string to the standard output
- * @str: the string to be printed
+ * print_rev - prints a string to the standard output
+ * @s: the string to be printed in reverse
  * Return: nothing
  */
 
 void print_rev(char *s)
 {
-	int i;
+	int i=0;
 
 	while (s[i] != '\0')
 	{
