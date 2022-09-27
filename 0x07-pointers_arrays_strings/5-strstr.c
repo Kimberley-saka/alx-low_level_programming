@@ -8,15 +8,18 @@
 
 char *_strstr(char *haystack, char *needle)
 {
-	unsigned int n = 0;
-
-	while (needle[n] != '\0')
-		n++;
 	while (*haystack != '\0')
-	{
-		if (_strncmp(haystack, needle, n) == 0)
-			return (haystack);
+	{	char *duplicate = haystack;
+		while (*haystack == *needle && *haystack != '\0' && *needle != '\0')
+		{
+			needle++;
+			haystack++;
+		}
+		if (!*needle != '\0')
+		{
+			return (duplicate);
+		}
 		haystack++;
 	}
-	return (NULL);
+	return (0);
 }
