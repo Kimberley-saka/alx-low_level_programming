@@ -16,7 +16,7 @@ struct dog
 	char *owner;
 };
 /**
- * additional function prototypes
+ * my_dog - typedef of structure dog
  */
 typedef struct dog my_dog;
 int _putchar(char c);
