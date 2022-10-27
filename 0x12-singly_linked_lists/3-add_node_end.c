@@ -25,31 +25,32 @@ unsigned int _strlen(char *str)
 
 list_t *add_node_end(list_t **head, const char *str)
 {
-	list_t *new_node;
-	list_t *tmp;
+	list_t  *new, *ptr;
+	unsigned int len = 0;
 
-	tmp = *head;
-	if (!str)
-		return (NULL);
-	new_node = malloc(sizeof(list_t));
-	if (new_node == NULL)
-		return (NULL);
-	new_node->next = NULL;
-	new_node->str = strdup(str);
-	if (new_node->str == NULL)
+	new = malloc(sizeof(list_t));
+	if (new)
 	{
-		free(new_node);
+		while (*(str + len))
+			len++;
+		new->str = strdup(str);
+		if (new->str)
+		{
+			new->len = len;
+			new->next = NULL;
+			if (!*head)
+			{
+				*head = new;
+				return (new);
+			}
+			ptr = *head;
+			while (ptr->next)
+				ptr = ptr->next;
+			ptr->next = new;
+			return (new);
+		}
+		free(new);
 		return (NULL);
 	}
-	new_node->len = _strlen(str);
-	if (*head == NULL)
-	{
-		*head = new_node;
-		return (new_node);
-	}
-	while (tmp->next)
-		tmp = tmp->next;
-	tmp->next = new_node;
-	
-	return (new_node);
+	return (NULL);
 }
