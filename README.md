@@ -1,1 +1,1 @@
-c programming concepts: selection, and loops
+Low level programming in C, covering almost all C basic concepts
