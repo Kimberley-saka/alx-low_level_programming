@@ -15,6 +15,18 @@ int op_add(int a, int b)
 }
 
 /**
+ * op_sub - subtract numbers
+ * @a: num 1
+ * @b: num 2
+ * Return: result
+ */
+
+int op_sub(int a, int b)
+{
+	return (a - b);
+}
+
+/**
  * op_mul - multiply numbers
  * @a: num 1
  * @b: num 2
