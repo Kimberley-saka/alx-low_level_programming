@@ -10,50 +10,35 @@
 
 listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
-	unsigned int i;
-	listint_t *temp, *new;
-
-	if (!(*head) && idx == 0)
+	listint_t *temp, *cursor;
+	unsigned int count = 0;
+	
+	if (head == NULL)
 	{
-		*head = new_node(n);
+		return (NULL);
+	}
+	temp = malloc(sizeof(listint_t));
+	if (temp == NULL)
+		return (NULL);
+	temp->n = n;
+	cursor = *head;
+	if (idx == 0)
+	{
+		temp->next = *head;
+		*head = temp;
 		return (*head);
 	}
-	i = 0;
-	temp = *head;
-	while (temp)
+	while (cursor != NULL)
 	{
-		if (idx == 0)
+		if (count == idx - 1)
 		{
-			*head = new_node(n);
-			(*head)->next = temp;
-			return (*head);
+			temp->next = cursor->next;
+			cursor->next = temp;
 		}
-		else if (i == idx - 1)
-		{
-			new = new_node(n);
-			new->next = temp->next;
-			temp->next = new;
-			return (new);
-		}
-		temp = temp->next;
-		i++;
+		count++;
+		cursor = cursor->next;
 	}
-	return (NULL);
-}
-/**
- * new_node - creates a new listint_t node.
- * @n: number to place inside the node.
- * Return: pointer to new nose
- */
-
-static listint_t *new_node(const int n)
-{
-	listint_t *new;
-
-	new = malloc(sizeof(listint_t));
-	if (!new)
+	if (idx > count)
 		return (NULL);
-	new->n = n;
-	new->next = NULL;
-	return (new);
+	return (temp);
 }
