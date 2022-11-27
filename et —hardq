@@ -1,0 +1,271 @@
+[33m0cc7556[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: commit: reverses a listint_t linked list
+[33m022579b[m HEAD@{1}: commit: header file fixed
+[33m679a6f1[m HEAD@{2}: commit: deletes the node at index index of a listint_t linked list
+[33m88a55f1[m HEAD@{3}: commit: betty error fixed
+[33m34ffaa8[m HEAD@{4}: commit: inserts a new node at a given position
+[33me8f5850[m HEAD@{5}: commit: insert new node at given position
+[33m7b6f3ec[m HEAD@{6}: commit: sum of elements in a list
+[33me123fbb[m HEAD@{7}: commit: error fixed
+[33m3af2cf3[m HEAD@{8}: commit: sum lists
+[33m2a61b08[m HEAD@{9}: commit: returns the nth node of a list
+[33m314d22c[m HEAD@{10}: commit: deletes the head node of a linked list
+[33mf891170[m HEAD@{11}: commit: free list
+[33m804ccd5[m HEAD@{12}: commit: free list
+[33mdc5b689[m HEAD@{13}: commit: free list
+[33mbb2da5b[m HEAD@{14}: commit: add node at end of list
+[33ma4c7e8a[m HEAD@{15}: commit: add new node at the beggining of list
+[33mcf5e157[m HEAD@{16}: commit: prints length of list
+[33m386a9f1[m HEAD@{17}: commit: bug fixed
+[33m858696e[m HEAD@{18}: commit: added the stdio and stdlib header files
+[33m5b49427[m HEAD@{19}: commit: singly linked list continued
+[33mef0e836[m HEAD@{20}: commit: prints the opcodes of its own main function
+[33mdb102aa[m HEAD@{21}: commit: added the subtraction function
+[33mcbd085d[m HEAD@{22}: commit: calculator app
+[33me90a3ed[m HEAD@{23}: commit: bug fixed
+[33mb2267e6[m HEAD@{24}: commit: search for an int
+[33m1da4d3a[m HEAD@{25}: commit: bug fixed
+[33m1d18a99[m HEAD@{26}: commit: added the stddef header
+[33ma386728[m HEAD@{27}: commit: executes a function given as a parameter on each element of an array
+[33m4e8f2c7[m HEAD@{28}: commit: fixed
+[33md064b29[m HEAD@{29}: commit: prints name
+[33m5cabc57[m HEAD@{30}: commit: prints name
+[33me5231b6[m HEAD@{31}: commit: fixed
+[33mfe4f82c[m HEAD@{32}: commit: function prints a name
+[33m7863237[m HEAD@{33}: commit: removed files
+[33m36daa4d[m HEAD@{34}: commit: error fixed
+[33m6e62d08[m HEAD@{35}: commit: a function that prints anything
+[33md16e6b2[m HEAD@{36}: commit: fixed
+[33ma930ac9[m HEAD@{37}: commit: fixed
+[33m6a7acf7[m HEAD@{38}: commit: print strings, followed by a new line using a variadic function
+[33m0da4321[m HEAD@{39}: commit: prints numbers, followed by a new line.
+[33md4f413a[m HEAD@{40}: commit: fixed betty errors
+[33m30b3901[m HEAD@{41}: commit: variadic functions
+[33md45a18b[m HEAD@{42}: commit: fixed betty eeror
+[33m820c39b[m HEAD@{43}: commit: print sentence before running the main function
+[33m252fec9[m HEAD@{44}: commit: free memory used by linked list
+[33m0a3a9f6[m HEAD@{45}: commit: fixed
+[33m0902506[m HEAD@{46}: commit: fixed
+[33m506e941[m HEAD@{47}: commit: add new node to the end of the linked list
+[33m182d1a3[m HEAD@{48}: commit: adding a new node to a linked list
+[33m2e209ad[m HEAD@{49}: commit: betty error fixed
+[33m74b10c4[m HEAD@{50}: commit: header file updated
+[33m98fffcb[m HEAD@{51}: commit: a function that returns the number of elements in a linked list_t list.
+[33ma1b7459[m HEAD@{52}: commit: incorrect output error fixed
+[33mefd3dbd[m HEAD@{53}: commit: error fixed
+[33m0475bfd[m HEAD@{54}: commit: added a readme file
+[33mc458ccf[m HEAD@{55}: commit: data structures, singly linked lists
+[33ma1c2396[m HEAD@{56}: commit: fixed
+[33mae096bd[m HEAD@{57}: commit: error fixed
+[33mf00f366[m HEAD@{58}: commit: executes a function given as a parameter on each element of an array.
+[33mf9bcc70[m HEAD@{59}: commit: fixed error
+[33m45ccd88[m HEAD@{60}: commit: pointers to functions. prints a name
+[33m719b29b[m HEAD@{61}: commit: reallocates a memory block using malloc and free
+[33m35914fc[m HEAD@{62}: commit: create and array of integers
+[33mefe587f[m HEAD@{63}: commit: allocate memory to an array
+[33m65ecf8d[m HEAD@{64}: commit: betty error fixed
+[33m788d3f0[m HEAD@{65}: commit: concatinate 2 strings
+[33m43e8eb8[m HEAD@{66}: commit: allocating memory using malloc
+[33m39cdfed[m HEAD@{67}: commit: function-like macro
+[33maec4653[m HEAD@{68}: commit: function-like macro
+[33mf0e4a15[m HEAD@{69}: commit: macro that finds absolute value of a number
+[33m2db2015[m HEAD@{70}: commit: print file a program was compiled from
+[33mbe440b3[m HEAD@{71}: commit: macro of pi
+[33m468b6b8[m HEAD@{72}: commit: fixed
+[33mc37e5a8[m HEAD@{73}: commit: fixed
+[33m9b8b9e9[m HEAD@{74}: commit: macros
+[33mc4c788c[m HEAD@{75}: commit: free memory space
+[33m9c5cf3e[m HEAD@{76}: commit: create new dog
+[33mfaa19ca[m HEAD@{77}: commit: new name for the type struct dog
+[33m5400a39[m HEAD@{78}: commit: print a struct dog
+[33me4d356f[m HEAD@{79}: commit: fixed
+[33mb60cc3d[m HEAD@{80}: commit: fixed
+[33m922de05[m HEAD@{81}: commit: fixed
+[33m52d9837[m HEAD@{82}: commit: struct definitio
+[33me140fcd[m HEAD@{83}: commit: initializing a structure called dog
+[33m6d8a9b6[m HEAD@{84}: commit: structures in C
+[33m8d5b3fe[m HEAD@{85}: commit: structures in C
+[33m2b0e272[m HEAD@{86}: commit: fixed error
+[33m49af1c9[m HEAD@{87}: commit: defining structures in header files
+[33m137505a[m HEAD@{88}: commit: fixed
+[33m2600501[m HEAD@{89}: commit: static libraries
+[33m45078b6[m HEAD@{90}: commit: concatinates all arguments ofthe function
+[33mcc679dc[m HEAD@{91}: commit: frees grid memory
+[33mcc8de77[m HEAD@{92}: commit: function that returns a pointer to a 2 dimensional array of integers
+[33m4089ce3[m HEAD@{93}: commit: concatinates 2 strings
+[33m63cc2f3[m HEAD@{94}: commit: main.h file
+[33mafeb383[m HEAD@{95}: commit: a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
+[33m4a601fc[m HEAD@{96}: commit: dynamic memory allocation in c
+[33mcc16fb9[m HEAD@{97}: commit: add numbers
+[33m9144393[m HEAD@{98}: commit: multiplies 2 numbers
+[33m9fb8ebd[m HEAD@{99}: commit: multiply 2 numbers
+[33m7191df3[m HEAD@{100}: commit: print arguments passed to function
+[33mc392e8a[m HEAD@{101}: commit: print argument count
+[33mc81d671[m HEAD@{102}: commit: print the name of the program
+[33mb7df003[m HEAD@{103}: pull: Merge made by the 'recursive' strategy.
+[33m2aa86a3[m HEAD@{104}: commit: arguments to main
+[33m54c8eee[m HEAD@{105}: commit: fixed
+[33m04e601c[m HEAD@{106}: commit: compare two strings
+[33m7f26e27[m HEAD@{107}: commit: check if a string is a palindrome
+[33mb4ef36a[m HEAD@{108}: commit: prime numbers
+[33m5ac99c3[m HEAD@{109}: commit: square roots
+[33m0c6f24a[m HEAD@{110}: commit: x to the power y
+[33m92034c1[m HEAD@{111}: commit: factorial
+[33mdd9be7e[m HEAD@{112}: commit: fixed
+[33me757423[m HEAD@{113}: commit: incorrect output fixed
+[33m79b5939[m HEAD@{114}: commit: print string length
+[33m8647619[m HEAD@{115}: commit: fixed incorrect output error
+[33mc17248d[m HEAD@{116}: commit: print string in reverse but with recursion
+[33mac610a4[m HEAD@{117}: commit: print string, but with recursion
+[33m3c38998[m HEAD@{118}: commit: recursion main folder
+[33m68c145a[m HEAD@{119}: commit: password for the crackme executable
+[33m0c07549[m HEAD@{120}: commit: set pointer to char
+[33md222b6a[m HEAD@{121}: commit: error fixed
+[33m3f2333c[m HEAD@{122}: commit: diagonal sum
+[33m0d0bd74[m HEAD@{123}: commit: sum of the two diagonals of a square matrix
+[33m30b2534[m HEAD@{124}: commit: fixed
+[33m89fd021[m HEAD@{125}: commit: incorrect output error fixed
+[33mce8ac61[m HEAD@{126}: commit: fixed
+[33md3caa07[m HEAD@{127}: commit: betty arror fixed
+[33m50bf16f[m HEAD@{128}: commit: fixed
+[33m3a1eafa[m HEAD@{129}: commit: print chess board
+[33mbfb28c2[m HEAD@{130}: commit: locate substring
+[33m6af193f[m HEAD@{131}: commit: locate substring
+[33mbfe776b[m HEAD@{132}: commit: fixed
+[33mca4717e[m HEAD@{133}: commit: fixed
+[33md060531[m HEAD@{134}: commit: error fixed
+[33m7cc0db2[m HEAD@{135}: commit: searches a string for any of a set of bytes
+[33mf5feb31[m HEAD@{136}: commit: length of a prefix substring
+[33m2c1e9cf[m HEAD@{137}: commit: locates a character in a string
+[33mf25dede[m HEAD@{138}: commit: copy memory
+[33mc1cd9a8[m HEAD@{139}: commit: fill memory with constant byte
+[33m046d7af[m HEAD@{140}: commit: reverse array
+[33mf4b22d0[m HEAD@{141}: commit: leet
+[33m80cbfac[m HEAD@{142}: commit: lower case to upper
+[33mcb45b38[m HEAD@{143}: commit: lower case to upper case
+[33mac8c99c[m HEAD@{144}: commit: reverse an array
+[33mc8e516c[m HEAD@{145}: commit: fixed error
+[33m6c291bd[m HEAD@{146}: commit: compare 2 strings
+[33m85119b6[m HEAD@{147}: commit: fixed
+[33mdfe4b06[m HEAD@{148}: commit: copy string
+[33m62751eb[m HEAD@{149}: commit: string concatinations
+[33md92becd[m HEAD@{150}: commit: arrays, pointers and string operations
+[33m795cc81[m HEAD@{151}: commit: generate random key
+[33mafaa220[m HEAD@{152}: commit: convert string to integer
+[33m1f37ef1[m HEAD@{153}: commit: copies the string pointed to by src
+[33m8cf253a[m HEAD@{154}: commit: fixed
+[33m0fcd1c5[m HEAD@{155}: commit: fexed error
+[33m400d392[m HEAD@{156}: commit: fixed gcc error
+[33md45c3f1[m HEAD@{157}: commit: fixed gcc error
+[33m9cf5cd3[m HEAD@{158}: commit: print n elements of an array
+[33m301a4b0[m HEAD@{159}: commit: print half of the string
+[33mf29ac44[m HEAD@{160}: commit: fixed gcc error
+[33m8246f31[m HEAD@{161}: commit: prints every other character of a string
+[33m3524e85[m HEAD@{162}: commit: betty error fixed
+[33ma9b9dc3[m HEAD@{163}: commit: reverse characters of a string
+[33mccd75f3[m HEAD@{164}: commit: betty error fixed
+[33m4a60a58[m HEAD@{165}: commit: fixed
+[33m627681b[m HEAD@{166}: commit: print string in reverse
+[33m76a0ba3[m HEAD@{167}: commit: print a string to the std output
+[33m5393ca6[m HEAD@{168}: commit: string length
+[33mac7b2aa[m HEAD@{169}: commit: swapping values
+[33m9868a9b[m HEAD@{170}: commit: pointers, arrays and strings
+[33me43b4bc[m HEAD@{171}: commit: printing integers
+[33m11320db[m HEAD@{172}: commit: print the largest prime number
+[33m9a514fc[m HEAD@{173}: commit: prints a # triangle of n size
+[33mae25dfd[m HEAD@{174}: commit: fizzbuzz
+[33m805cc68[m HEAD@{175}: commit: prints square of # n times
+[33mcc5bd45[m HEAD@{176}: commit: draws a diagonal line
+[33m2fce826[m HEAD@{177}: commit: draws straight lines
+[33m1548a67[m HEAD@{178}: commit: printing 0 to 14 ten times
+[33m80a39c4[m HEAD@{179}: commit: main.h
+[33mb7a8129[m HEAD@{180}: commit: print all numbers from 0 to 9 except 2 and 4
+[33mb9f3345[m HEAD@{181}: commit: fixed
+[33m6a921d5[m HEAD@{182}: commit: fixed
+[33mc8344fb[m HEAD@{183}: commit: printing numbers 0 to 9
+[33m8b2f161[m HEAD@{184}: commit: multiply 2 numbers
+[33md936458[m HEAD@{185}: commit: fixed
+[33m845c15c[m HEAD@{186}: commit: error fixed
+[33mf9d0571[m HEAD@{187}: commit: check if c is digit
+[33mc0ec16b[m HEAD@{188}: commit: fixed
+[33m5b16672[m HEAD@{189}: commit: test if character is upper or not
+[33mc834370[m HEAD@{190}: commit: invalid date error fixed
+[33m0979aec[m HEAD@{191}: commit: fixed the bug
+[33m28304b2[m HEAD@{192}: commit: fixed
+[33m17c129c[m HEAD@{193}: commit: years
+[33m948d6c2[m HEAD@{194}: commit: prints largets number
+[33m17f7866[m HEAD@{195}: commit: commenting out infinite loop
+[33m4e48904[m HEAD@{196}: commit: fixed
+[33mdb32245[m HEAD@{197}: commit: testing if a number is positive or negative
+[33m2fa7433[m HEAD@{198}: commit: fixed
+[33mfc1a450[m HEAD@{199}: commit: fixed
+[33mff2dee9[m HEAD@{200}: commit: fixed
+[33m90102e9[m HEAD@{201}: commit: prints all natural numbers from n to 98
+[33m35113db[m HEAD@{202}: commit: add two numbers and return result
+[33m1fcb8f3[m HEAD@{203}: commit: times table
+[33m31f9292[m HEAD@{204}: commit: fixed
+[33m2cf6e67[m HEAD@{205}: commit: fixed
+[33m9bb8de4[m HEAD@{206}: commit: fixed
+[33m8cf7851[m HEAD@{207}: commit: fixed
+[33m633fafe[m HEAD@{208}: commit: fixed
+[33md9761a4[m HEAD@{209}: commit: fixed
+[33m0ba640d[m HEAD@{210}: commit: fixed
+[33m45f9c18[m HEAD@{211}: commit: fixed
+[33m6b86108[m HEAD@{212}: commit: fixed
+[33m9a3bf78[m HEAD@{213}: commit: fixed
+[33m5e339b1[m HEAD@{214}: commit: last digit of a number
+[33mae3db92[m HEAD@{215}: commit: added to the header file
+[33m396a92c[m HEAD@{216}: commit: absolute value of a number
+[33m0aca096[m HEAD@{217}: commit: fixed
+[33mc932b12[m HEAD@{218}: commit: fixed
+[33m2f7bcd5[m HEAD@{219}: commit: fixed
+[33mce3a63d[m HEAD@{220}: commit: check alphabet letters
+[33m83bd357[m HEAD@{221}: commit: returns 1 if c is lower and 0 otherwise
+[33mca42a19[m HEAD@{222}: commit: fixed
+[33m8732cab[m HEAD@{223}: commit: fixed
+[33m723980e[m HEAD@{224}: commit: printing the alphabet 10 times
+[33m763eaa1[m HEAD@{225}: commit: fixed
+[33m166896b[m HEAD@{226}: commit: fixed error
+[33m945ae77[m HEAD@{227}: commit: fixed
+[33m0bc3d9d[m HEAD@{228}: commit: fixed
+[33m1abff3b[m HEAD@{229}: commit: functions and header files
+[33mf514784[m HEAD@{230}: commit: c header files
+[33m7927793[m HEAD@{231}: commit: prints _putchar
+[33m3b3283d[m HEAD@{232}: commit: fixed
+[33me850813[m HEAD@{233}: commit: ossible combinations of single-digit numbers
+[33m5f9161b[m HEAD@{234}: commit: fixed
+[33mcb336a0[m HEAD@{235}: commit: base 16 numbers
+[33m812f357[m HEAD@{236}: commit: the alphabet in reverse
+[33m89dbad4[m HEAD@{237}: commit: fixed
+[33mca1fb30[m HEAD@{238}: commit: print base 10 numbers using putchar
+[33m4e0acb3[m HEAD@{239}: commit: fixed
+[33m3ad8088[m HEAD@{240}: commit: error fixed
+[33m9fa74be[m HEAD@{241}: commit: printing base 10 numbers
+[33m5bc49d4[m HEAD@{242}: commit: ommitting certain characters
+[33ma99c5e2[m HEAD@{243}: commit: lower case and upper
+[33mca4487a[m HEAD@{244}: commit: lower case alphabet
+[33m64954e8[m HEAD@{245}: commit: printing the alphabet in lower case
+[33mcc59d45[m HEAD@{246}: commit: print last digit
+[33mc38483a[m HEAD@{247}: commit: fixed
+[33mb52e245[m HEAD@{248}: commit: fixed the code
+[33mb0b56a2[m HEAD@{249}: commit: fixed
+[33mf37d44c[m HEAD@{250}: commit: selection statements
+[33m6c193df[m HEAD@{251}: commit: printing in c
+[33m53544eb[m HEAD@{252}: commit: generating assembly code of a C file
+[33m02a829f[m HEAD@{253}: commit: printing the memory spaces for c variables
+[33m15cba1d[m HEAD@{254}: commit: debugged the betty error
+[33mcaee594[m HEAD@{255}: commit: fixed betty error
+[33m7b5cbeb[m HEAD@{256}: commit: betty correction
+[33mcee5f9d[m HEAD@{257}: commit: fixed
+[33me991102[m HEAD@{258}: commit: added a newline character
+[33m28a5fbe[m HEAD@{259}: commit: using printf function
+[33m48a5d97[m HEAD@{260}: commit: still working on betty style comments
+[33mf914f28[m HEAD@{261}: commit: added betty style comments
+[33m5a296c8[m HEAD@{262}: commit: betty style error fixed
+[33m1dd9efb[m HEAD@{263}: commit: using puts function
+[33mf63f7cc[m HEAD@{264}: commit: compiles and creates and executable
+[33mc6bd726[m HEAD@{265}: commit: generate assembly code
+[33m11141cd[m HEAD@{266}: commit: compiling but not linking
+[33m763380f[m HEAD@{267}: commit: bug fixed
+[33m978f316[m HEAD@{268}: commit: fixed the bug
+[33m0a5c847[m HEAD@{269}: commit: compiling but not linking
+[33m99a1159[m HEAD@{270}: commit (initial): first c program
