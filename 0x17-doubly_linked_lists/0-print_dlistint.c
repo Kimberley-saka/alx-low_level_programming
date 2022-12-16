@@ -11,12 +11,14 @@ size_t print_dlistint(const dlistint_t *h)
 	int counter = 0;
 
 	if (h == NULL)
-		return (counter);
-	while (h->prev != NULL)
-		h = h->prev;
+	{
+		printf("%s", "Empty lisit");
+	}
 	while (h != NULL)
 	{
-		printf("%d\n", h->n);
+		int new_node = h->n;
+
+		printf("%d\n", new_node);
 		h = h->next;
 		counter++;
 	}
